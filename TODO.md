@@ -6,7 +6,7 @@
 
 ## General
 
-* [ ] Rename the fonts to "EFC Domitian"
+* [X] Rename the fonts to "EFC Domitian"
 * [ ] Use GitHub Actions to automatically build the fonts into TTF/OTF
 * [ ] Make a nice specimen -- probably base it off of EB Garamond's
 
