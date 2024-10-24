@@ -14,6 +14,7 @@
 
 * [ ] Make sure the Polish and Vietnamese diacritics are correct
 * [ ] Separate the combining diacritic glyphs, and build additional accented glyphs using anchors etc.
+* [ ] Make an italic swash set based on the metal type Palatino's swashes
 
 ## Greek
 
