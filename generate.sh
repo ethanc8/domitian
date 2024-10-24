@@ -1,7 +1,7 @@
 #!/bin/bash
-for file in $(ls *sfd)
+for file in *.sfd
 do
   name=${file%%.sfd}
-  fontforge -lang=ff -c 'Open($1); Generate($2)' $file $name.otf
+  fontforge -lang=ff -c 'Open($1); Generate($2)' "$(realpath "$file")" "$(realpath .)/$name.otf"
 done
 
