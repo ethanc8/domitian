@@ -12,7 +12,11 @@
 
 ## Latin
 
-* [ ] Make sure the Polish and Vietnamese diacritics are correct
+* [ ] Support diacritics and glyphs for:
+  * [ ] Polish
+  * [ ] Vietnamese
+  * [ ] Pinyin
+  * [ ] Peh-oe-ji
 * [ ] Separate the combining diacritic glyphs, and build additional accented glyphs using anchors etc.
 * [ ] Make an italic swash set based on the metal type Palatino's swashes
 
@@ -28,6 +32,8 @@
 ## Cyrillic
 
 * [ ] Get someone to review the Cyrillic glyphs
+* [ ] Add a lot of missing Cyrillic glyphs
+* [ ] Separate the combining diacritic glyphs, and build additional accented glyphs using anchors etc.
 
 ## Math
 
@@ -42,6 +48,7 @@
 * [ ] Has [correct Polish diacritics](http://www.twardoch.com/download/polishhowto/intro.html)
 * [ ] Has [correct Vietnamese diacritics](https://vietnamesetypography.com/)
 * [ ] Has common Pinyin diacritics (excluding abbreviations and uncommon forms)
+* [ ] Has enough diacritics to support Peh-oe-ji
 * [ ] Correctly handles Turkish undotted and dotted Ii, including in small caps
 * [ ] Character sets (TODO: check if these are supported)
   * [X] ASCII printable characters
